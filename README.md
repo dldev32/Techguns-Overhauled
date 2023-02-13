@@ -1,7 +1,11 @@
-# Techguns2
+# Techguns Overhauled
 
-1.12.2 Port/Rewrite of Techguns mod for Minecraft. WIP
+Fork of Techguns2 for version 1.12.2.
 
-Techguns 2 is still an early version and not well tested. Bugs may happen. Use at own risk.
+This fork greatly improves the original mod and here are its main changes:
+* Fixed many bugs;
+* Fixed project building, using Gradle;
+* Some amendments have been made;
+* Added new features;
 
 Mod Information: https://github.com/pWn3d1337/Techguns2/wiki
